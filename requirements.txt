@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+tensorflow-macos
+scikit-learn
+statsmodels
+plotly
+pandas-datareader
+datetime
+ipykernel
